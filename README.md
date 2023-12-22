@@ -17,4 +17,3 @@ STT | Họ tên | MSSV | Email | Github
 
    Email: truonganpn@uit.edu.vn
 
-   l
